@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/bin/Debug/net7.0/StackCollection
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/bin/Debug/net7.0/StackCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/bin/Debug/net7.0/StackCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/bin/Debug/net7.0/StackCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/bin/Debug/net7.0/StackCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/refint/StackCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/StackCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/StackCollection/obj/Debug/net7.0/ref/StackCollection.dll
